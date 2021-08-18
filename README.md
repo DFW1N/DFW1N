@@ -10,6 +10,19 @@
 - 💬 Ask me about: **HCL, Powershell, KQL, Architecture, Terraform, Azure**
 - 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)**
 
+📜 Certifications:
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- Microsoft Certified: Power Platform Fundamentals (PL-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft 365 Certified: Security Administrator Associate (MS-500)
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- Microsoft Certified: Information Protection Administrator Associate (SC-400)
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- Gremlin Certified Chaos Engineering Practitioner (GCCEP)
+
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
