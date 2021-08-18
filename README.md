@@ -16,13 +16,22 @@
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1232758321)
 
 ---
-
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DFW1N&show_icons=true" alt="deep5050" /> </p>
-  </div>
-  
 <hr/>
 
-   <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DFW1N&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" /> </p> </div>
+<h1 align="center"> 🔥 &nbsp; GitHub Analytics
+<hr/>
+<p align="center">
+<a href="https://github.com/smir45">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DFW1N&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DFW1N&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
+</p>
+ 
+  <p align="center">
+  <a href="https://github.com/DFW1N/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DFW1N#version3"/>
+  </a>
+</p>
  
 <hr/>
 
@@ -44,9 +53,11 @@
   <a href="https://twitter.com/sacha_roussakis">
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
-
 </p>
 
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DFW1N?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<br/>
 
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
