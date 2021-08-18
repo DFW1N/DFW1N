@@ -12,15 +12,15 @@
 
 📜 Certifications:
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft 365 Certified: Fundamentals (MS-900)
-- Microsoft Certified: Power Platform Fundamentals (PL-900)
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- Microsoft 365 Certified: Security Administrator Associate (MS-500)
-- Microsoft Certified: Security Operations Analyst Associate (SC-200)
-- Microsoft Certified: Information Protection Administrator Associate (SC-400)
-- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-- Gremlin Certified Chaos Engineering Practitioner (GCCEP)
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Microsoft 365 Certified: Fundamentals (MS-900)**
+- **Microsoft Certified: Power Platform Fundamentals (PL-900)**
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+- **Microsoft 365 Certified: Security Administrator Associate (MS-500)**
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
+- **Microsoft Certified: Information Protection Administrator Associate (SC-400)**
+- **Microsoft Certified: Identity and Access Administrator Associate (SC-300)**
+- **Gremlin Certified Chaos Engineering Practitioner (GCCEP)**
 
 
 ---
