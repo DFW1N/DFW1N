@@ -16,7 +16,10 @@
 
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DFW1N&show_icons=true" alt="deep5050" /> </p>
   </div>
- 
+  
+<hr/>
+
+   <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DFW1N&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" /> </p> </div>
  
 <hr/>
 
