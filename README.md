@@ -17,6 +17,7 @@
 - **Microsoft Certified: Power Platform Fundamentals (PL-900)**
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- **Microsoft Certified: Azure Administrator (AZ-104)**
 - **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 - **Microsoft 365 Certified: Security Administrator Associate (MS-500)**
 - **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
