@@ -8,7 +8,7 @@
 </br>
 
 - 💬 Ask me about: **HCL, Powershell, KQL, Architecture, Terraform, Azure**
-- 📫 How to reach me: **Find me on [<img alt="Sacha | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)**
+- 📫 How to reach me: **Find me on [<img alt="Sacha | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)**
 
 📜 Certifications:
 
