@@ -12,6 +12,7 @@
 
 📜 Certifications:
 
+- **Microsoft Certified: Azure Network Engineer (AZ-700)**
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **Microsoft 365 Certified: Fundamentals (MS-900)**
 - **Microsoft Certified: Power Platform Fundamentals (PL-900)**
