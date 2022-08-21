@@ -12,6 +12,7 @@
 
 📜 Certifications:
 
+- **HashiCorp Terraform Assoicate Certified HCTAO 002**
 - **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
 - **Microsoft Certified: Azure Network Engineer (AZ-700)**
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
