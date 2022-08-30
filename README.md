@@ -28,6 +28,7 @@
 - **Microsoft Certified: Information Protection Administrator Associate (SC-400)**
 - **Microsoft Certified: Identity and Access Administrator Associate (SC-300)**
 - **Gremlin Certified Chaos Engineering Practitioner (GCCEP)**
+- **Gremlin Certified Chaos Engineering Professional (GCCEPro)**
 
 
 ---
