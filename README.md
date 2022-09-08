@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/DFW1N?label=Stars" alt="Total Stars">
 </p>
 <h1 align="center">Hello 👋, I'm Sacha </h1>
-<h3 align="center">I am a Security Infrastructure Engineer, Cyber Security Analyst, Azure Ninja, Azure DevSecOps.</h3>
+<h3 align="center">I am a Security Infrastructure Engineer, Azure Ninja, Azure DevSecOps.</h3>
 </br>
 
 - 💬 Ask me about: **HCL, Powershell, KQL, Architecture, Terraform, Azure**
