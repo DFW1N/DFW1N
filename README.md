@@ -7,7 +7,7 @@
 <h3 align="center">I am a Security Infrastructure Engineer, Azure Ninja, Azure DevSecOps.</h3>
 </br>
 
-- 💬 Ask me about: **HCL, Powershell, KQL, Architecture, Terraform, Azure**
+- 💬 Ask me about: **HCL, Powershell, Architecture, Terraform, Azure**
 - 📫 How to reach me: **Find me on https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/**
 
 📜 Certifications:
